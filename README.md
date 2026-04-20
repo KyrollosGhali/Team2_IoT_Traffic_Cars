@@ -12,6 +12,7 @@ This repository contains code and models for a vehicle tracking and traffic anal
 ## Project Flow & Dashboard
 
 - **Flow Diagram:** ![Flow Image](https://github.com/KyrollosGhali/Team2_IoT_Traffic_Cars/blob/main/Flow.png)
+- **Demo Video:** [Watch Demo Video](https://github.com/KyrollosGhali/Team2_IoT_Traffic_Cars/blob/main/Demo.mp4)
 - **Dashboard Video:** [Watch Dashboard Video](https://github.com/KyrollosGhali/Team2_IoT_Traffic_Cars/blob/main/Dashboard%20Demo.mp4)
 
 
